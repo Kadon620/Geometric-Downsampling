@@ -41,6 +41,7 @@ Geometric-Downsampling/
 ├── 📁 results/                  # 结果输出
 ├── requirements.txt             # 依赖列表
 └── README.md                    # 项目说明
+
 🛠️ 安装与依赖
 环境要求
 Python 3.8+
@@ -63,6 +64,7 @@ numba>=0.55.0
 ucimlrepo>=0.0.3
 torchvision>=0.10.0
 cffi>=1.15.0
+
 📖 快速开始
 1. 几何降维 (第一步)
 python
@@ -129,6 +131,7 @@ config = {
 
 controller = PipelineController(config)
 sampling_results = controller.run_full_pipeline()
+
 🎯 核心算法
 几何降维流程
 局部PCA分析: 对每个点的邻域进行PCA，提取局部几何特征
