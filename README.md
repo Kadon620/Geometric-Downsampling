@@ -197,7 +197,7 @@ QNX/RNX: 局部结构保持更好
 
 bibtex
 @article{xiang2025geometric,
-  title={Geometric Downsampling: High-Dimensional Local Feature-Guided Sampling in Projection Space},
+  title={Geometric Downsampling for Structure-Aware Low-Dimensional Data Selection},
   author={Xiang, Xudong and Qin, Hongxing and Hu, Haibo and Xiang, Tao and Chen, Baoquan},
   journal={arXiv preprint},
   year={2025}
