@@ -1,8 +1,6 @@
 Geometric Downsampling (GDS)
-https://img.shields.io/badge/python-3.8+-blue.svg
-https://img.shields.io/badge/license-MIT-green.svg
 
-Official implementation of "Geometric Downsampling: High-Dimensional Local Feature-Guided Sampling in Projection Space".
+Official implementation of "Geometric Downsampling for Structure-Aware Low-Dimensional Data Selection".
 
 This repository provides a novel framework that systematically integrates high-dimensional local geometry into the low-dimensional sampling process, addressing the geometric distortion inherent in conventional "reduce-then-sample" pipelines.
 
